@@ -1,5 +1,4 @@
-RDBMS stands for Relational Database Management System. The data in an RDBMS is stored in database objects which are called as tables. The table contains columns and rows. Each column contains a different type of values and each row corresponds to a single record.
-
+RDBMS stands for Relational Database Management System. The data in an RDBMS is stored in database objects which are called as tables (tutorialspoint). The table contains columns and rows. Each column contains a different type of values and each row corresponds to a single record.
 
 SQL stands for Structured Query Language and database understands SQL.  It lets you access and manipulate database,execute queries against a database, retrieve data from database, insert records from a database,so much more.
 
