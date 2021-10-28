@@ -4,10 +4,15 @@ SQL stands for Structured Query Language and database understands SQL.  It lets 
 
 SQL can be divided into two parts: The Data Manipulation Langauge(DML) and the Data Definition Language(DDL). 
 The query and update commands form the DML part of SQL:
+
 Select- extracts data from a database
+
 Updates- updates data in a database
+
 Delete- deletes data from a database
+
 Insert into- inserts new data into a database
+
 
 The DDL part of SQL permits database tables to be created or deleted.
 
