@@ -8,7 +8,8 @@ facts you need to include are
    3) The store has a membership program, but not all customers need to be members
    Aside from this, use what you know about grocery stores to create a logical data model.
 
-<img width="750" alt="Screen Shot 2021-10-27 at 9 15 49 PM" src="https://user-images.githubusercontent.com/20906514/139514515-256b647b-5268-4b9e-9128-23d2d2025f06.png">
+<img width="500" alt="Screen Shot 2021-10-27 at 9 15 49 PM" src="https://user-images.githubusercontent.com/20906514/139514639-4ada838c-3ccc-4149-85c9-2dcbfb242a6e.png">
+
 
 2.With your group, create a list of at least 5 and no more than 10 ways data can be “dirty”.
 Perhaps think back to some data sets we have used that have had weird stuff in them. Discuss
