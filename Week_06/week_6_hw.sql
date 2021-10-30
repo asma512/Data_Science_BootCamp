@@ -217,6 +217,6 @@ inner join film_category f_c
 inner join category cat 
 	on cat.category_id = f_c.category_id
 group by cat.category_id,Date_part('month',r.rental_date) -- group by category and month
-order by 1; --sort category name asc
+order by 2; --sort month in asc
 
 
