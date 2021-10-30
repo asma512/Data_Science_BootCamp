@@ -2,11 +2,11 @@
 scenario:
 A grocery store owner would like to store all their data in a database. Some important
 facts you need to include are
-1) The owner has multiple stores
-2) The owner has multiple employees and the managers report to him, but all other
-employees report to store managers
-3) The store has a membership program, but not all customers need to be members
-Aside from this, use what you know about grocery stores to create a logical data model.
+   1) The owner has multiple stores
+   2) The owner has multiple employees and the managers report to him, but all other
+   employees report to store managers
+   3) The store has a membership program, but not all customers need to be members
+   Aside from this, use what you know about grocery stores to create a logical data model.
 
 <img width="332" alt="Screen Shot 2021-10-27 at 9 15 49 PM" src="https://user-images.githubusercontent.com/20906514/139514515-256b647b-5268-4b9e-9128-23d2d2025f06.png">
 
