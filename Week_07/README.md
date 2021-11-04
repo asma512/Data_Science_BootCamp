@@ -1,3 +1,14 @@
+Auto-increment allows a unique number to be generated automatically when a new record is inserted into a table.
+A autoincremented field is often specified as a primary key field of the table as it
+
+JOIN combines each row of the left table with each row of the right table,keeping only the rows in which the join codition is true. A subquery is a query within another SQL query and embedded within the WHERE clause. The outer query is the main query.
+Subquery may be used to compare values against multiple rows while JOIN keeps rows when the condition is true.
+JOINs are faster than subquery
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ClassWork
+
 1. Create an account on lucidchart.com and create an ERD diagram for the following
 scenario:
 A grocery store owner would like to store all their data in a database. Some important
