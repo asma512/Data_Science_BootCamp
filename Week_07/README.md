@@ -3,7 +3,7 @@ A autoincremented field is often specified as a primary key field of the table.
 
 JOIN combines each row of the left table with each row of the right table,keeping only the rows in which the join codition is true. A subquery is a query within another SQL query and embedded within the WHERE clause. The outer query is the main query.
 Subquery may be used to compare values against multiple rows while JOIN keeps rows when the condition is true.
-JOINs are faster than subquery
+JOINs are usually faster than subquery
 
 <img width="500" alt="Screen Shot 2021-11-03 at 11 53 42 PM" src="https://user-images.githubusercontent.com/20906514/140255341-30ad57ca-a9be-42db-9c82-ba14fbbc2bc7.png">
 
