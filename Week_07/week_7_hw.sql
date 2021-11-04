@@ -97,8 +97,10 @@ FROM film f
 ORDER BY percentile DESC; --sort percentile by desc order
 
 -- 10.	In under 100 words, explain what the difference is between set-based and procedural programming. Be sure to specify which sql and python are. 
--- SQL is set based as it uses mathematical set theory. It process sets of table data. User tell sql server what you want unlike in procedural progrramming like python
---where the user tells it how to calculate it. Procedural programming uses step by step approach to develop application.
+-- SQL is set based as it uses mathematical set theory. It processes sets of table data. User tell sql server WHAT you want.
+-- Procedural programming uses step by step approach to develop application. It executes the program in a sequence. Most times with procedural programming user tell 
+-- HOW to calculate.
+
 
 --Bonus:
 --Find the relationship that is wrong in the data model. Explain why it’s wrong.
