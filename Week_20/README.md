@@ -20,8 +20,8 @@ print(sort_freq)
 
 1. Open the terminal and change to the directory with frequency.py
 2. Enter the name of text file 'cats_txt.txt' as the input in the terminal:
-    - cat cats_txt.txt | ./frequency.py
-    - cat command allows us to concatenate text file
-    - | pipes to the .py file
+    * cat cats_txt.txt | ./frequency.py
+        - cat command allows us to concatenate text file 
+        - | pipes in the .py file
 
 
