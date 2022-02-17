@@ -25,5 +25,5 @@ print(sort_freq)
         - | pipes in the .py file
 
 
-This program returns frequency of the words and punctuation which helps us see the the kind of text we will be dealing with like EDA.
+This program returns frequency of the words and punctuation which helps us understand the the kind of text we will be dealing with.
 This is can be used to see which words needs to be removed and what kind of sentiment data analysis
