@@ -22,7 +22,10 @@ print(sort_freq)
 2. Enter the name of text file 'cats_txt.txt' as the input in the terminal:
     * cat cats_txt.txt | ./frequency.py
         - cat command allows us to concatenate text file 
-        - | pipes in the .py file
+        - | pipes in the .py file . The program reads in the text file
+
+
+<img width="806" alt="Screen Shot 2022-02-18 at 12 02 07 PM" src="https://user-images.githubusercontent.com/20906514/154728704-3813139b-8504-4699-ba3b-ce5f37bd41cb.png">
 
 
 This program returns frequency of the words and punctuation which helps us understand the the kind of text we will be dealing with.
