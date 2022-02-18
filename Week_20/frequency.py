@@ -13,4 +13,6 @@ for line in sys.stdin:
         
 counts = Counter(frequency_list)
 sort_freq = sorted(counts.items(), key=lambda x: (x[1],x[0]), reverse=True)
-print(sort_freq)
+
+top_twenty = counts.most_common(20)
+print(top_twenty)
