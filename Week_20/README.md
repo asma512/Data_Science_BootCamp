@@ -19,7 +19,7 @@ print(sort_freq)
 ### 2.	Document how to run the program you created in question 1 in a readme.md file in your repo. Be as clear as possible. Use proper markdown and consider using screenshots. Be sure to briefly discuss why this kind of exercise might be helpful for NLP in your markdown.
 
 1. Open the terminal and change to the directory with frequency.py
-2. Enter the name of text file 'cats_txt.txt' as the input in the terminal:
+2. Enter the name of text file 'cats_txt.txt' as the input in the terminal as follows:
     * cat cats_txt.txt | ./frequency.py
         - cat command allows us to concatenate text file 
         - | pipes in the .py file . The program reads in the text file
