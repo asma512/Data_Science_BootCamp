@@ -22,3 +22,4 @@ Homepage:
 <img width="1213" alt="Screen Shot 2022-03-02 at 8 58 50 PM" src="https://user-images.githubusercontent.com/20906514/156481724-00c218f8-9530-45de-b35e-0c0f7ea65943.png">
 3.	What is web scraping? Why is it helpful? What does it mean for your online presence?
 Refence the readings and DataCamp. 
+<img width="592" alt="Screen Shot 2022-03-02 at 11 43 34 PM" src="https://user-images.githubusercontent.com/20906514/156497765-316cdcce-abc3-40b3-b2e4-178d9ad90311.png">
