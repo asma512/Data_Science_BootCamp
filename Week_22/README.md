@@ -23,3 +23,5 @@ Homepage:
 3.	What is web scraping? Why is it helpful? What does it mean for your online presence?
 Refence the readings and DataCamp. 
 <img width="592" alt="Screen Shot 2022-03-02 at 11 43 34 PM" src="https://user-images.githubusercontent.com/20906514/156497765-316cdcce-abc3-40b3-b2e4-178d9ad90311.png">
+<img width="665" alt="Screen Shot 2022-03-03 at 12 05 03 AM" src="https://user-images.githubusercontent.com/20906514/156499912-31c75548-fe94-41cd-89ad-4b1ef2366dba.png">
+
