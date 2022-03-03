@@ -6,7 +6,7 @@ I created a python function to scrape Craigslist data for top 50 apt/ housing in
 Code: craigslist_scrape.py
 
 2.	Create a local API that calls your scrape function and stores the data when you call /scrape endpoint. The data you scrape should be viewable when you go to /all .
-3.	
+
 Code: craigslist_api.py, templates folder
 
 I imported the the function from the previous question to display the data.
